@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.all-group-text{
+    font-weight: 700; 
+    font-size: 52px; 
+    color: #050c33; 
+    font-family: "Montserrat";
+}
+
+body{
+    background-color: #FAEBD7;
+}
